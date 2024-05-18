@@ -9,4 +9,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ivk)](https://solved.ac/ivk/)
 
 </div>
-](https://github.com/leorivk/leorivk.git)
+
